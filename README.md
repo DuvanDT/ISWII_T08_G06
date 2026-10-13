@@ -1,6 +1,6 @@
 # ISWII_T08_G06 – Taller 08
 
-Este repositorio contiene la solución del **Taller 08** de la asignatura **Ingeniería de Software I** (ISWII) de la Universidad del Cauca.  
+Este repositorio contiene la solución del **Taller 08** de la asignatura **Ingeniería de Software II** (ISWII) de la Universidad del Cauca.  
 El proyecto está implementado en **Java 8** y utiliza **Maven** como sistema de construcción.
 
 ---
